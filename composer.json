@@ -1,0 +1,12 @@
+{
+
+	"autoload": {
+		"psr-4": {
+			"App\\": "src/App",
+			"Reader\\": "src/Reader",
+			"Reader\\Book\\": "src/Reader/Book",
+			"Reader\\Kindle\\": "src/Reader/Kindle",
+			"Reader\\Nook\\": "src/Reader/Nook"
+		}
+	}
+}
